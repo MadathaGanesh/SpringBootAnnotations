@@ -2,6 +2,8 @@ package com.example.ComponentAnnotaionDemo.Controller;
 
 import org.springframework.stereotype.Component;
 
+
+// Here we assigned "BeanName" as the name of the bean
 @Component("BeanName")
 public class PizzaControllerBean {
 
